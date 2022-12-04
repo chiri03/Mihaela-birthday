@@ -72,7 +72,7 @@ body {
   border-radius: 0 0 5px 5px;
 }
 
-.gift-box:after {
+.myButton {
   position: absolute;
   color: #fff;
   width: 100%;
@@ -85,6 +85,8 @@ body {
   transform-origin: 0 0;
   cursor: pointer;
   font-family: "Kaushan Script", "Sail", cursive;
+  background-color: transparent;
+  border: none;
 }
 .box {
   width: 55px;
