@@ -3,6 +3,8 @@
 body {
   font-family: "Wendy One", sans-serif;
   background-color: #d44;
+  max-width: 200px;
+  max-height: 500px;
 }
 
 .gift {
