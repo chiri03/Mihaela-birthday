@@ -1,9 +1,9 @@
-@import url("https://fonts.googleapis.com/css?family=Kaushan+Script");
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap");
 html,
 body {
   max-width: 100%;
   max-height: 100%;
-  /* box-sizing: border-box; */
+  box-sizing: border-box;
   background: #1d2327;
 }
 
@@ -12,7 +12,7 @@ body {
   position: relative;
   display: flex;
   transform: translateX(-50%);
-  left: 49%;
+  left: 49.5%;
 }
 #cake {
   display: flex;
@@ -277,10 +277,653 @@ body {
   }
 }
 .text {
-  color: #8b6a60;
-  font-family: "Kaushan Script", "Sail", cursive;
-  font-weight: 300;
+  color: #a3964c;
+  font-family: "Great Vibes", cursive;
+  font-weight: 400;
   font-style: italic;
   text-align: center;
   font-size: 1.4em;
+}
+.text > p {
+  font-size: 2em;
+  font-weight: 300;
+}
+
+/* --------------------------felicitare */
+#logo {
+  position: absolute;
+  top: 65%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  justify-content: center;
+  stroke-dasharray: 450;
+  stroke-dashoffset: 450;
+}
+
+#logo path:nth-child(1) {
+  animation: fillSVG 1s ease forwards;
+}
+
+#logo path:nth-child(2) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 6.5s;
+}
+#logo path:nth-child(3) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 6.8s;
+}
+#logo path:nth-child(4) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 7.1s;
+}
+#logo path:nth-child(5) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 7.4s;
+}
+#logo path:nth-child(6) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 7.7s;
+}
+#logo path:nth-child(7) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 8s;
+}
+#logo path:nth-child(8) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 8.3s;
+}
+#logo path:nth-child(9) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 8.6s;
+}
+#logo path:nth-child(10) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 8.9s;
+}
+#logo path:nth-child(11) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 9.1s;
+}
+#logo path:nth-child(12) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 9.4s;
+}
+
+#logo path:nth-child(13) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 9.7s;
+}
+#logo path:nth-child(14) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 10s;
+}
+#logo path:nth-child(15) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 10.3s;
+}
+#logo path:nth-child(16) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 10.6s;
+}
+#logo path:nth-child(17) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 10.9s;
+}
+#logo path:nth-child(18) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 11.2s;
+}
+#logo path:nth-child(19) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 11.5s;
+}
+#logo path:nth-child(20) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 11.8s;
+}
+#logo path:nth-child(21) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 12.1s;
+}
+#logo path:nth-child(22) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 12.4s;
+}
+#logo path:nth-child(23) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 12.7s;
+}
+#logo path:nth-child(24) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 13s;
+}
+#logo path:nth-child(25) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 13.3s;
+}
+#logo path:nth-child(26) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 13.6s;
+}
+#logo path:nth-child(27) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 13.9s;
+}
+#logo path:nth-child(28) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 14.1s;
+}
+#logo path:nth-child(29) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 14.4s;
+}
+#logo path:nth-child(30) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 14.7s;
+}
+#logo path:nth-child(31) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 15s;
+}
+#logo path:nth-child(32) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 15.3s;
+}
+#logo path:nth-child(33) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 15.6s;
+}
+
+#logo path:nth-child(34) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 15.9s;
+}
+#logo path:nth-child(35) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 16.2s;
+}
+#logo path:nth-child(36) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 16.5s;
+}
+#logo path:nth-child(37) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 16.8s;
+}
+#logo path:nth-child(38) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 17.1s;
+}
+#logo path:nth-child(39) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 17.4s;
+}
+#logo path:nth-child(40) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 17.7s;
+}
+#logo path:nth-child(41) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 18s;
+}
+#logo path:nth-child(42) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 18.3s;
+}
+#logo path:nth-child(43) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 18.6s;
+}
+#logo path:nth-child(44) {
+  animation: fillSVG 1.3s ease forwards;
+  animation-delay: 18.9s;
+}
+#logo path:nth-child(45) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 19.2s;
+}
+#logo path:nth-child(46) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 19.5s;
+}
+#logo path:nth-child(47) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 19.8s;
+}
+#logo path:nth-child(48) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 20.1s;
+}
+#logo path:nth-child(49) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 20.4s;
+}
+
+#logo path:nth-child(50) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 20.7s;
+}
+#logo path:nth-child(51) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 21s;
+}
+#logo path:nth-child(52) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 21.3s;
+}
+#logo path:nth-child(53) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 21.6s;
+}
+#logo path:nth-child(54) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 21.9s;
+}
+#logo path:nth-child(55) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 22.2s;
+}
+#logo path:nth-child(56) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 22.5s;
+}
+#logo path:nth-child(57) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 22.8s;
+}
+#logo path:nth-child(58) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 23.1s;
+}
+#logo path:nth-child(59) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 23.4s;
+}
+#logo path:nth-child(60) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 23.7s;
+}
+#logo path:nth-child(61) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 24s;
+}
+#logo path:nth-child(62) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 24.3s;
+}
+
+#logo path:nth-child(63) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 24.6s;
+}
+#logo path:nth-child(64) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 24.9s;
+}
+#logo path:nth-child(65) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 25.1s;
+}
+#logo path:nth-child(66) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 25.4s;
+}
+#logo path:nth-child(67) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 25.7s;
+}
+#logo path:nth-child(68) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 26s;
+}
+#logo path:nth-child(69) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 26.3s;
+}
+#logo path:nth-child(70) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 26.6s;
+}
+#logo path:nth-child(71) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 26.9s;
+}
+#logo path:nth-child(72) {
+  animation: fillSVG 1.3s ease forwards;
+  animation-delay: 27.2s;
+}
+#logo path:nth-child(73) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 27.5s;
+}
+#logo path:nth-child(74) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 27.8s;
+}
+#logo path:nth-child(75) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 28.1s;
+}
+#logo path:nth-child(76) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 28.4s;
+}
+#logo path:nth-child(77) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 28.7s;
+}
+#logo path:nth-child(78) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 29s;
+}
+#logo path:nth-child(79) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 29.3s;
+}
+#logo path:nth-child(80) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 29.6s;
+}
+#logo path:nth-child(81) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 29.9s;
+}
+#logo path:nth-child(82) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 30.2s;
+}
+#logo path:nth-child(83) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 30.5s;
+}
+
+#logo path:nth-child(84) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 30.8s;
+}
+#logo path:nth-child(85) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 31.1s;
+}
+#logo path:nth-child(86) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 31.4s;
+}
+#logo path:nth-child(87) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 31.7s;
+}
+#logo path:nth-child(88) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 32s;
+}
+#logo path:nth-child(89) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 32.3s;
+}
+#logo path:nth-child(90) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 32.6s;
+}
+#logo path:nth-child(91) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 32.9s;
+}
+#logo path:nth-child(92) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 33.2s;
+}
+#logo path:nth-child(93) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 33.5s;
+}
+#logo path:nth-child(94) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 33.8s;
+}
+#logo path:nth-child(95) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 34.1s;
+}
+#logo path:nth-child(96) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 34.4s;
+}
+#logo path:nth-child(97) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 34.7s;
+}
+#logo path:nth-child(98) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 35s;
+}
+#logo path:nth-child(99) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 35.3s;
+}
+#logo path:nth-child(100) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 35.6s;
+}
+#logo path:nth-child(101) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 35.9s;
+}
+#logo path:nth-child(102) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 36.2s;
+}
+#logo path:nth-child(103) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 36.5s;
+}
+#logo path:nth-child(104) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 36.8s;
+}
+#logo path:nth-child(105) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 37.2s;
+}
+#logo path:nth-child(106) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 37.5s;
+}
+#logo path:nth-child(107) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 37.8s;
+}
+#logo path:nth-child(108) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 38.1s;
+}
+#logo path:nth-child(109) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 38.4s;
+}
+#logo path:nth-child(110) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 38.7s;
+}
+#logo path:nth-child(111) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 39s;
+}
+#logo path:nth-child(112) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 39.3s;
+}
+#logo path:nth-child(113) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 39.6s;
+}
+#logo path:nth-child(114) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 39.9s;
+}
+
+#logo path:nth-child(115) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 40.2s;
+}
+#logo path:nth-child(116) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 40.5s;
+}
+#logo path:nth-child(117) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 40.8s;
+}
+#logo path:nth-child(118) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 41.1s;
+}
+#logo path:nth-child(119) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 41.4s;
+}
+#logo path:nth-child(120) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 41.7s;
+}
+#logo path:nth-child(121) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 42s;
+}
+#logo path:nth-child(122) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 42.6s;
+}
+#logo path:nth-child(123) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 42.9s;
+}
+#logo path:nth-child(124) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 43.2s;
+}
+#logo path:nth-child(125) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 43.5s;
+}
+#logo path:nth-child(126) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 43.8s;
+}
+#logo path:nth-child(127) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 44.1s;
+}
+#logo path:nth-child(128) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 44.4s;
+}
+#logo path:nth-child(129) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 44.7s;
+}
+#logo path:nth-child(130) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 45s;
+}
+#logo path:nth-child(131) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 45.3s;
+}
+#logo path:nth-child(132) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 45.6s;
+}
+#logo path:nth-child(133) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 45.9s;
+}
+#logo path:nth-child(134) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 46.2s;
+}
+#logo path:nth-child(135) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 46.5s;
+}
+
+#logo path:nth-child(136) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 46.8s;
+}
+#logo path:nth-child(137) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 47.1s;
+}
+#logo path:nth-child(138) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 47.4s;
+}
+#logo path:nth-child(139) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 47.7s;
+}
+#logo path:nth-child(140) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 48s;
+}
+#logo path:nth-child(141) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 48.3s;
+}
+#logo path:nth-child(142) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 48.6s;
+}
+#logo path:nth-child(143) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 48.9s;
+}
+#logo path:nth-child(144) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 49.2s;
+}
+#logo path:nth-child(145) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 49.5s;
+}
+#logo path:nth-child(146) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 49.8s;
+}
+#logo path:nth-child(147) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 50.1s;
+}
+#logo path:nth-child(148) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 50.4s;
+}
+#logo path:nth-child(149) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 50.7s;
+}
+#logo path:nth-child(150) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 51s;
+}
+#logo path:nth-child(151) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 51.3s;
+}
+#logo path:nth-child(152) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 51.6s;
+}
+#logo path:nth-child(153) {
+  animation: fillSVG 1s ease forwards;
+  animation-delay: 51.9s;
+}
+@keyframes fillSVG {
+  0% {
+    stroke-dashoffset: 450;
+  }
+  100% {
+    stroke-dashoffset: 0;
+  }
 }
