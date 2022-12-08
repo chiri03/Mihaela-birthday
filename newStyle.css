@@ -295,10 +295,9 @@ body {
   margin: 0 auto;
   justify-content: center;
   text-align: center;
-  top: 65%;
+  top: 75%;
   left: 50vw;
   transform: translate(-50%, -50%);
-  justify-content: center;
   stroke-dasharray: 450;
   stroke-dashoffset: 450;
   width: 98%;
