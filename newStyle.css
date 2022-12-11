@@ -301,6 +301,7 @@ body {
   stroke-dasharray: 450;
   stroke-dashoffset: 450;
   width: 98%;
+  display: inline;
 }
 
 #logo path:nth-child(1) {
