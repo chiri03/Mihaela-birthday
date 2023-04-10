@@ -89,6 +89,7 @@ body {
   font-family: "Kaushan Script", "Sail", cursive;
   background-color: transparent;
   border: none;
+  text-decoration: none;
 }
 .box {
   width: 55px;

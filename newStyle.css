@@ -7,6 +7,10 @@ body {
   background: #1d2327;
 }
 
+a {
+  text-decoration: none;
+}
+
 .lumanari {
   width: 350px !important;
   position: relative;
@@ -277,6 +281,7 @@ body {
   }
 }
 .text {
+  position: relative;
   color: #a3964c;
   font-family: "Great Vibes", cursive;
   font-weight: 400;
@@ -284,7 +289,7 @@ body {
   text-align: center;
   font-size: 1.4em;
 }
-.text > p {
+.text > h1 {
   font-size: 2em;
   font-weight: 300;
 }
@@ -292,16 +297,11 @@ body {
 /* --------------------------felicitare */
 #logo {
   position: absolute;
-  margin: 0 auto;
-  justify-content: center;
   text-align: center;
-  top: 75%;
-  left: 50vw;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -35%);
   stroke-dasharray: 450;
   stroke-dashoffset: 450;
   width: 98%;
-  display: inline;
 }
 
 #logo path:nth-child(1) {
@@ -929,5 +929,11 @@ body {
   }
   100% {
     stroke-dashoffset: 0;
+  }
+}
+
+@media (min-width: 768px) {
+  #logo {
+    transform: translate(-50%, -5%);
   }
 }
